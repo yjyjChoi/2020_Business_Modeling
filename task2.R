@@ -96,7 +96,6 @@ accuracy(housing.lm.step.pred, valid.df$MEDV) # 비교
 
 #--------------------------------------------------------------------
 
-
 # 2.
 ## (1)
 bank.df <- read.csv("UniversalBank.csv")
