@@ -1,6 +1,3 @@
-# 60181672_최윤정
-
-
 # 1.
 ## (1) 
 # '예측'을 목적으로 하는 모델은 training data와 validation data로 나누는 것이 좋다. 만들어진 모델을 검증(평가)하기 위해 validation data가 필요하기 때문이다. training data는 모델을 만드는 데 사용된다. 그리고 validation data는 모델의 정확도를 테스트하는 데에 사용되고, 모델의 성능을 평가하기 위해서도 사용된다. 
